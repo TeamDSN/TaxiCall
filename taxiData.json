@@ -1,0 +1,7 @@
+{"location" : {
+	"providers": [
+    	{"location":"TP.HCM", "brand":"Vina Sun", "phone":"838272727", "subtitle":"Vinasun Coporation", "image":"taxiLogo/vinasun.png"},
+    	{"location":"TP.HCM", "brand":"Mai Linh", "phone":"838383838", "subtitle":"Mai Linh Corporation", "image":"taxiLogo/mailinh.png"},
+	    {"location":"TP.HCM", "brand":"Example", "phone":"838454545", "subtitle":"Festival Coporation", "image":"taxiLogo/vinasun.png"}
+	]
+}}
